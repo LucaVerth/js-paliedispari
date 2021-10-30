@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: beige;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 50%;
+  min-height:150px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 20px;
+  font-size: 1.5rem;
+  background-color: teal;
+  color: #fff;
+  box-shadow: 0 10px 20px rgb(90, 89, 89);
+}
